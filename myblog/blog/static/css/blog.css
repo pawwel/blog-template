@@ -1,0 +1,40 @@
+body{
+  /* background-color: blue; */
+}
+
+.post-title{
+  color: black;
+  font-size: 0.8em;
+}
+
+.post-title:hover{
+  color: black;
+}
+
+.content{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date{
+  font-style: italic;
+}
+
+.postdate{
+  text-align: right;
+}
+
+.navbar-custom{
+  font-weight:normal;
+  font-size: 1.2em;
+}
+
+.navbar-brand{
+  font-size: 1.2em;
+  font-weight: normal;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
